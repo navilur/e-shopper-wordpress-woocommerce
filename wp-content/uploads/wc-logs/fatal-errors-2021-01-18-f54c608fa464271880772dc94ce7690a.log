@@ -1,0 +1,2 @@
+2021-01-18T09:03:38+00:00 CRITICAL syntax error, unexpected ''hero'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Applications/XAMPP/xamppfiles/htdocs/eshopper/wp-content/themes/eshopper/templates/template-home.php on line 11
+
